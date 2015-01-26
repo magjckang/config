@@ -1,0 +1,14 @@
+{
+  "name": "m-config",
+  "version": "0.1.0",
+  "description": "Minimal config library for node project.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/magjckang/config.git"
+  },
+  "dependencies": {
+    "debug": "^2.1.1",
+    "deep-extend": "^0.3.2"
+  },
+  "license": "MIT"
+}
