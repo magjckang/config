@@ -1,6 +1,6 @@
 {
   "name": "m-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Minimal config library for node project.",
   "repository": {
     "type": "git",

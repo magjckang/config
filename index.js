@@ -44,7 +44,7 @@ try {
  */
 
 try {
-  require(rs(dir, 'local'))
+  deepMerge(config, require(rs(dir, 'local')))
   debug('load local.js')
 } catch (err) {}
 
